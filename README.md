@@ -15,6 +15,9 @@ Install my-project with npm
   npm install my-project
   cd my-project
 ```
+<kbd>CMD/CTRL</kbd> + <kbd>C</kbd>: to copy
+<kbd>CMD/CTRL</kbd> + <kbd>V</kbd>: to paste
+
     
 ## Ejemplo de uso
 
@@ -35,4 +38,6 @@ Añade aquí tus referencias de interés.
 [Readme.so](https://readme.so/es/) - Generador de Readme por bloques.
 
 [Shields.io](https://shields.io/) - Escudos para tu Readme 
+
+[Calmcode](https://calmcode.io/readme-files/) - Plantilla creada a partir de este curso.
 
