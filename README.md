@@ -1,5 +1,5 @@
 
-<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png" width=125 height=125 align="right">
+<img src="/images/logo.png" width=125 height=125 align="right">
 
 # Título del proyecto
 
