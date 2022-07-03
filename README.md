@@ -37,7 +37,9 @@ Añade aquí tus referencias de interés.
 
 [Readme.so](https://readme.so/es/) - Generador de Readme por bloques.
 
-[Shields.io](https://shields.io/) - Escudos para tu Readme 
+[Shields.io](https://shields.io/) - Chapas para tu Readme 
 
 [Calmcode](https://calmcode.io/readme-files/) - Plantilla creada a partir de este curso.
 
+[Awesome Icons](https://github.com/notlmn/awesome-icons) - Iconos de alta calidad.
+[Dev Icons](https://devicon.dev/) - Escudos para tu Readme.
