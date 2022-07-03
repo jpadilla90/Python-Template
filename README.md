@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Como-este-brightgreen)
+![](https://img.shields.io/github/languages/code-size/jpadilla90/Python-Template)
 <img src="/images/logo.png" width=125 height=125 align="right">
 
 # Título del proyecto
