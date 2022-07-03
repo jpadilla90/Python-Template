@@ -1,4 +1,4 @@
-
+![]https://img.shields.io/badge/Shield de ejemplo-Link en referencias-brightgreen
 <img src="/images/logo.png" width=125 height=125 align="right">
 
 # Título del proyecto
@@ -29,4 +29,7 @@ function App() {
 
 Here are some related projects
 
-[Awesome README](https://github.com/matiassingers/awesome-readme)
+[Awesome README](https://github.com/matiassingers/awesome-readme) - README de calidad
+[Readme.so](https://readme.so/es/) - Generador de Readme por bloques.
+[Shields.io](https://shields.io/) - Escudos para tu Readme 
+
