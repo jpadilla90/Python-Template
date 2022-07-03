@@ -28,7 +28,7 @@ function App() {
 
 ## Referencias
 
-Here are some related projects
+Añade aquí tus referencias de interés.
 
 [Awesome README](https://github.com/matiassingers/awesome-readme) - README de calidad
 
