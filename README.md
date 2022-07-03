@@ -31,6 +31,8 @@ function App() {
 Here are some related projects
 
 [Awesome README](https://github.com/matiassingers/awesome-readme) - README de calidad
+
 [Readme.so](https://readme.so/es/) - Generador de Readme por bloques.
+
 [Shields.io](https://shields.io/) - Escudos para tu Readme 
 
