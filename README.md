@@ -1,4 +1,4 @@
-![]https://img.shields.io/badge/Shield-Link_abajo-brightgreen
+![](https://img.shields.io/badge/Como-este-brightgreen)
 <img src="/images/logo.png" width=125 height=125 align="right">
 
 # Título del proyecto
