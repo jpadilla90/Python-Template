@@ -1,4 +1,5 @@
 ![](https://img.shields.io/github/languages/code-size/jpadilla90/Python-Template)
+![](https://img.shields.io/github/last-commit/jpadilla90/Python-Template)
 <img src="/images/logo.png" width=125 height=125 align="right">
 
 # Título del proyecto
